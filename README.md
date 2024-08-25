@@ -1,6 +1,6 @@
 ### Calculator Project Description
 
-This project is an implementation of a basic calculator using an ATmega32 microcontroller. The calculator takes user input from a keypad and displays results on an LCD screen. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like square root, exponentiation, and modulus
+This project is an implementation of a basic calculator using an ATmega32 microcontroller. The calculator takes user input from a keypad and displays results on an LCD screen. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like square root, exponentiation, and modulus.
 
 #### Components Used
 
